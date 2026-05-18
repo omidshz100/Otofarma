@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd OtoFarma/hearing-test && npm install && npm run build",
+  "outputDirectory": "OtoFarma/hearing-test/dist",
+  "installCommand": "echo skip"
+}
